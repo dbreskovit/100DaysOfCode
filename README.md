@@ -12,3 +12,4 @@
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|Jan 01, 2023| Start at Orange Tech + Bootcamp at Digital Innovation One | [DIO](https://www.dio.me/)|
+|Day 2|Jan 02, 2023| Learning: Software Development Principles | [DIO](https://www.dio.me/)|
