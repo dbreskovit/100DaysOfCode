@@ -21,3 +21,4 @@
 | Day 9      | Jan 09, 2023 | Learning about Import and Export in Javascript and continued reading the book Clean Code | [_Notes_ 📋](./courses/orange-tech/)                  |
 | Day 10     | Jan 10, 2023 | Creating a Pokedex using PokeAPI in Javascript                                           | [_Project_ 🚧](https://github.com/dbreskovit/Pokedex) |
 | Day 11     | Jan 11, 2023 | Continuing Pokedex development using PokeAPI in Javascript                               | [_Project_ 🚧](https://github.com/dbreskovit/Pokedex) |
+| Day 12     | Jan 12, 2023 | Reading of the 1st chapter of the book Clean Code                                        | [_Book_ 📚](https://a.co/d/5zvvr8V)                   |
