@@ -8,18 +8,19 @@
 
 ## 📅 Timeline
 
-| **Day 📌** | **Date 📅**  | **Lessons/Tasks Done ⏰**                                                                | **Links 🔗**                                          |
-| ---------- | ------------ | ---------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Day 1      | Jan 01, 2023 | Start at Orange Tech + Bootcamp at Digital Innovation One                                | [DIO](https://www.dio.me/)                            |
-| Day 2      | Jan 02, 2023 | Learning Computational Thinking and Modern Software Development                          | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 3      | Jan 03, 2023 | Learning Agile Teams and Git and GitHub                                                  | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 4      | Jan 04, 2023 | Learning to create Interactive First Pages with JavaScript                               | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 5      | Jan 05, 2023 | Started reading the book Clean Code: A Handbook of Agile Software Craftsmanship          | [_Book_ 📖](https://a.co/d/5zvvr8V)                   |
-| Day 6      | Jan 06, 2023 | Practicing with Variables, Operators, and Conditional Structures in Javascript           | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 7      | Jan 07, 2023 | Learning functions with javascript                                                       | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 8      | Jan 08, 2023 | Learning Objects, Classes, Arrays and Repeating Structures in JavaScript                 | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 9      | Jan 09, 2023 | Learning about Import and Export in Javascript and continued reading the book Clean Code | [_Notes_ 📋](./courses/orange-tech/)                  |
-| Day 10     | Jan 10, 2023 | Creating a Pokedex using PokeAPI in Javascript                                           | [_Project_ 🚧](https://github.com/dbreskovit/Pokedex) |
-| Day 11     | Jan 11, 2023 | Continuing Pokedex development using PokeAPI in Javascript                               | [_Project_ 🚧](https://github.com/dbreskovit/Pokedex) |
-| Day 12     | Jan 12, 2023 | Reading of the 1st chapter of the book Clean Code                                        | [_Book_ 📖](https://a.co/d/5zvvr8V)                   |
-| Day 13     | Jan 13, 2023 | Finished the Pokédex project and performed the Deploy on the Vercel hosting platform     | [_Deploy_ 🚀](https://pokedex-app-swart.vercel.app/)  |
+| **Day :pushpin:** | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                     | **Links :link:**                                                           |
+| ----------------- | --------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Day 01            | Jan 01, 2023    | Start at Orange Tech + Back-End Bootcamp at Digital Innovation One                       | [DIO :golf:](https://www.dio.me/)                                          |
+| Day 02            | Jan 02, 2023    | Learning Computational Thinking and Modern Software Development                          | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 03            | Jan 03, 2023    | Learning Agile Teams and Git and GitHub                                                  | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 04            | Jan 04, 2023    | Learning to create Interactive First Pages with JavaScript                               | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 05            | Jan 05, 2023    | Started reading the book Clean Code: A Handbook of Agile Software Craftsmanship          | [_Book_ :book:](https://a.co/d/5zvvr8V)                                    |
+| Day 06            | Jan 06, 2023    | Practicing with Variables, Operators, and Conditional Structures in Javascript           | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 07            | Jan 07, 2023    | Learning functions with javascript                                                       | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 08            | Jan 08, 2023    | Learning Objects, Classes, Arrays and Repeating Structures in JavaScript                 | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 09            | Jan 09, 2023    | Learning about Import and Export in Javascript and continued reading the book Clean Code | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
+| Day 10            | Jan 10, 2023    | Creating a Pokedex using PokeAPI in Javascript                                           | [_Repo_ :construction:](https://github.com/dbreskovit/Pokedex)             |
+| Day 11            | Jan 11, 2023    | Continuing Pokedex development using PokeAPI in Javascript                               | [_Repo_ :construction:](https://github.com/dbreskovit/Pokedex)             |
+| Day 12            | Jan 12, 2023    | Reading of the 1st chapter of the book Clean Code                                        | [_Book_ :book:](https://a.co/d/5zvvr8V)                                    |
+| Day 13            | Jan 13, 2023    | Finished the Pokedex project and performed the Deploy on the Vercel hosting platform     | [_Deploy_ :rocket:](https://pokedex-app-swart.vercel.app/)                 |
+| Day 14            | Jan 14, 2023    | Creating an Authentication Microservice with Node.js                                     | [_Repo_ :construction:](https://github.com/dbreskovit/user-authentication) |
