@@ -8,7 +8,7 @@
 
 ## 📅 Timeline
 
-| **Day :pushpin:** | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                     | **Links :link:**                                                           |
+| **Day :pushpin:** | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                     | **Reference Links :link:**                                                 |
 | ----------------- | --------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Day 01            | Jan 01, 2023    | Start at Orange Tech + Back-End Bootcamp at Digital Innovation One                       | [DIO :golf:](https://www.dio.me/)                                          |
 | Day 02            | Jan 02, 2023    | Learning Computational Thinking and Modern Software Development                          | [_Notes_ :clipboard:](./courses/orange-tech/)                              |
