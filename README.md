@@ -31,7 +31,7 @@
 | Day 19             | Jan 19          | Started the study of Object Oriented Programming in java                        | [_Notes_ :clipboard:][def16]                                 |
 | Day 20             | Jan 20          | Reading of the 3st and 4st chapter of the book Clean Code                       | [_Book_ :book:][def7]                                        |
 | Day 21             | Jan 21          | Start creating RESTful API documented with Spring Boot (3.0.2)                  | [_Building..._ :building_construction:][def17]               |
-| Day 22             | Jan 22          |                                                                                 |                                                              |
+| Day 22             | Jan 22          | Continuing project and Reading about maturity levels of a REST API              | [_Article_ :newspaper:][def18]                               |
 
 
 
@@ -59,3 +59,4 @@
 [def15]: https://github.com/dbreskovit/Orange-Tech/tree/master/Conhecendo%20a%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java/03%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java#readme
 [def16]: https://github.com/dbreskovit/Orange-Tech/tree/master/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos#readme
 [def17]: https://youtu.be/dQw4w9WgXcQ
+[def18]: https://www.programmers.com.br/blog/niveis-de-maturidade-de-uma-api-rest/
