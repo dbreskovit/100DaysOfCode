@@ -33,9 +33,7 @@
 | Day 21             | Jan 21          | Start creating RESTful API documented with Spring Boot (3.0.2)                  | [_Build..._ :building_construction:][def17]                  |
 | Day 22             | Jan 22          | Continuing project and Reading about maturity levels of a REST API              | [_Article_ :newspaper:][def18]                               |
 | Day 23             | Jan 23          | Implementing dtos, models, controllers, services and repositories               | [_Build..._ :building_construction:][def17]                  |
-
-
-<!-- | Day 24             | Jan 24          | Creating the unit tests with Junit and Mockito in services and controllers      | [_Build..._ :building_construction:][def17]                  | -->
+| Day 24             | Jan 24          | Creating the unit tests with Junit and Mockito in services and controllers      | [_Build..._ :building_construction:][def17]                  |
 
 
 
