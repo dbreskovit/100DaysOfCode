@@ -30,10 +30,11 @@
 | Day 18             | Jan 18          | Learning Repeating and Array Structures in Java                                 | [_Notes_ :clipboard:][def15]                                 |
 | Day 19             | Jan 19          | Started the study of Object Oriented Programming in java                        | [_Notes_ :clipboard:][def16]                                 |
 | Day 20             | Jan 20          | Reading of the 3st and 4st chapter of the book Clean Code                       | [_Book_ :book:][def7]                                        |
-| Day 21             | Jan 21          | Start creating RESTful API documented with Spring Boot (3.0.2)                  | [_Build..._ :building_construction:][def17]                  |
+| Day 21             | Jan 21          | Start creating API RESTful documented with Spring Boot (3.0.2)                 | [_Build..._ :building_construction:][def17]                  |
 | Day 22             | Jan 22          | Continuing project and Reading about maturity levels of a REST API              | [_Article_ :newspaper:][def18]                               |
 | Day 23             | Jan 23          | Implementing dtos, models, controllers, services and repositories               | [_Build..._ :building_construction:][def17]                  |
 | Day 24             | Jan 24          | Creating the unit tests with Junit and Mockito in services and controllers      | [_Build..._ :building_construction:][def17]                  |
+| Day 25             | Jan 25          | Implementing the latest services of API and writing documentation               | [_Build..._ :building_construction:][def17]                  |
 
 
 
