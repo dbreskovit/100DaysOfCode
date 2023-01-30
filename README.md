@@ -36,8 +36,9 @@
 | Day 24             | Jan 24          | Creating the unit tests with Junit and Mockito in services and controllers      |                                                              |
 | Day 25             | Jan 25          | Implementing the latest services of API and writing documentation               |                                                              |
 | Day 26             | Jan 26          | Finalizing the project and writing the RESTful API technical documentation      | [_Repo_ :construction:][def19] <br> [_Docs_ :books:][def20]  |
-| Day 27             | Jan 27          | Learning java collection framework hierarchy and composition                   |                                                              |
-| Day 28             | Jan 28          | Learning debugging and exception handling in java                              |                                                              |
+| Day 27             | Jan 27          | Learning java collection framework hierarchy and composition                    |                                                              |
+| Day 28             | Jan 28          | Learning debugging and exception handling in java                               |                                                              |
+| Day 29             | Jan 29          | I solved the basic and advanced java code exercises from Orange Tech +          | [_Code_ :man_technologist:][def21]                           |
 
 
 [def]: https://www.dio.me/
@@ -63,3 +64,4 @@
 [def18]: https://www.programmers.com.br/blog/niveis-de-maturidade-de-uma-api-rest/
 [def19]: https://github.com/dbreskovit/Unisoma
 [def20]: https://documenter.getpostman.com/view/25525733/2s8ZDeSdNi
+[def21]: https://github.com/dbreskovit/dio-code-challenges
