@@ -39,6 +39,7 @@
 | Day 27             | Jan 27          | Learning java collection framework hierarchy and composition                    |                                                              |
 | Day 28             | Jan 28          | Learning debugging and exception handling in java                               |                                                              |
 | Day 29             | Jan 29          | I solved the basic and advanced java code exercises from Orange Tech +          | [_Code_ :man_technologist:][def21]                           |
+| Day 30             | Jan 30          | Published on Medium two articles that were written during the year 2022         | [_Post_ :man_scientist:][def22] <br> [_Post_ :robot:][def23] |
 
 
 [def]: https://www.dio.me/
@@ -65,3 +66,5 @@
 [def19]: https://github.com/dbreskovit/Unisoma
 [def20]: https://documenter.getpostman.com/view/25525733/2s8ZDeSdNi
 [def21]: https://github.com/dbreskovit/dio-code-challenges
+[def22]: https://medium.com/@diegobresko/jogo-chemical-sam-desenvolvimento-de-jogos-como-metodologia-ativa-para-o-ensino-de-química-e4f73487ccc4
+[def23]: https://medium.com/@diegobresko/a-revolução-das-inteligências-artificiais-discussões-acerca-da-ética-na-inteligência-artificial-793e5ea15731
