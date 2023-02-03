@@ -42,6 +42,7 @@
 | Day 30             | Jan 30          | Published on Medium two articles that were written during the year 2022         | [_Post_ :man_scientist:][def24] <br> [_Post_ :robot:][def25] |
 | Day 31             | Jan 31          | Creating a project to abstract a Bootcamp using Object Orientation in Java      | [_Repo_ :construction:][def26]                               |
 | Day 32             | Feb 01          | Learning about Twelve-Factor App Methodology                                    | [_Link_ :diamonds:][def27]                                   |
+| Day 33             | Feb 02          | Start creating a Documented REST API with Spring Web and Swagger                |                                                              |
 
 
 [def]: https://www.dio.me/
