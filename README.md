@@ -40,9 +40,10 @@
 | Day 28             | Jan 28          | Learning debugging and exception handling in java                               |                                                              |
 | Day 29             | Jan 29          | I solved the basic and advanced java code exercises from Orange Tech +          | [_Code_ :man_technologist:][def23]                           |
 | Day 30             | Jan 30          | Published on Medium two articles that were written during the year 2022         | [_Post_ :man_scientist:][def24] <br> [_Post_ :robot:][def25] |
-| Day 31             | Jan 31          | Creating a project to abstract a Bootcamp using Object Orientation in Java      | [_Repo_ :construction:][def26]                               |
+| Day 31             | Jan 31          | Creating a project to abstract a Bootcamp using OOP                             | [_Repo_ :construction:][def26]                               |
 | Day 32             | Feb 01          | Learning about Twelve-Factor App Methodology                                    | [_Link_ :diamonds:][def27]                                   |
 | Day 33             | Feb 02          | Start creating a Documented REST API with Spring Web and Swagger                |                                                              |
+| Day 34             | Feb 03          | I started to build in the open source project Sintaxe an initiative of Digytal  | [_Page_ :green_heart:][def29]                                |
 
 
 [def]: https://www.dio.me/
@@ -92,3 +93,7 @@
 [def26]: https://github.com/dbreskovit/dio-poo-challenge
 
 [def27]: https://12factor.net/
+
+[def28]: #
+
+[def29]: https://sintaxe.netlify.app/
