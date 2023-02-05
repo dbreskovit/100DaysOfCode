@@ -44,6 +44,7 @@
 | Day 32             | Feb 01          | Learning about Twelve-Factor App Methodology                                    | [_Link_ :diamonds:][def27]                                   |
 | Day 33             | Feb 02          | Start creating a Documented REST API with Spring Web and Swagger                |                                                              |
 | Day 34             | Feb 03          | I started to build in the open source project Sintaxe an initiative of Digytal  | [_Page_ :green_heart:][def29]                                |
+| Day 35             | Feb 04          | Reading of the 5st and 6st chapter of the book Clean Code                       |                                                              |
 
 
 [def]: https://www.dio.me/
