@@ -47,7 +47,7 @@
 | Day 35             | Feb 04          | Reading of the 5st and 6st chapter of the book Clean Code                       |                                                              |
 | Day 36             | Feb 05          | Understanding Design Patterns in Practice with Java                             | [_Repo_ :construction:][def29]                               |
 | Day 37             | Feb 06          | Started at Java Developer Bootcamp and Linux Bootcamp in Digital Innovation One | [_Repo_ :construction:][def]                                 |
-| Day 38             | Feb 07          | Understanding Design Patterns in Practice with Java                             | [_Repo_ :construction:][def29]                               |
+| Day 38             | Feb 07          | I wrote about syntax and flux control in java for the Sintaxe Project           |                                                              |
 
 
 [def]: https://www.dio.me/
