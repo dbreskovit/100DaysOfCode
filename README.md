@@ -49,6 +49,7 @@
 | Day 37             | Feb 06          | Started at Java Developer Bootcamp and Linux Bootcamp in Digital Innovation One     | [_DIO_ :tent:][def]                                          |
 | Day 38             | Feb 07          | I wrote about syntax and flux control in java for the Sintaxe Project               |                                                              |
 | Day 39             | Feb 08          | Review of written content for the Sintaxe project and correction of spelling errors |                                                              |
+| Day 40             | Feb 09          | Reading of the 7st chapter of the book Clean Code                                   |                                                              |
 
 
 [def]: https://www.dio.me/
