@@ -47,13 +47,14 @@
 | Day 35             | Feb 04          | Reading of the 5st and 6st chapter of the book Clean Code                               |                                                              |
 | Day 36             | Feb 05          | Understanding Design Patterns in Practice with Java                                     | [_Repo_ :construction:][def29]                               |
 | Day 37             | Feb 06          | Started at Java Developer Bootcamp and Linux Bootcamp in Digital Innovation One         | [_DIO_ :tent:][def]                                          |
-| Day 38             | Feb 07          | I wrote about syntax and flux control in java for the Sintaxe Project                   |                                                              |
+| Day 38             | Feb 07          | I wrote about java programming language syntax for the Syntax Project                   |                                                              |
 | Day 39             | Feb 08          | Review of written content for the Sintaxe project and correction of spelling errors     | [_Post_ :newspaper:][def30]                                  |
 | Day 40             | Feb 09          | Reading of the 7st chapter of the book Clean Code                                       |                                                              |
 | Day 41             | Feb 10          | Learning the basics of Linux terminal: User management, Directories, Disk Management    |                                                              |
 | Day 42             | Feb 11          | Revisiting logic concepts in the book Programming Logic and Algorithms with JavaScript  | [_Book_ :book:][def31]                                       |
 | Day 43             | Feb 12          | Writing a Script to Create a Structure of Users, Directories and Permissions in Linux   | [_Repo_ :construction:][def32]                               |
 | Day 44             | Feb 13          | I started the parallel studies of Computer Science at the Universidade Brasileira Livre | [_UBL_ :school:][def33] <br> [_Docs_ :books:][def34]         |
+| Day 45             | Feb 14          | I wrote about flow control: condition structure, loop structure, exception structure    | [_Post_ :newspaper:][def35]                                  |
 
 
 [def]: https://www.dio.me/
@@ -117,3 +118,5 @@
 [def33]: https://ulivre.dev/
 
 [def34]: https://github.com/Universidade-Livre/ciencia-da-computacao
+
+[def35]: https://sintaxe.netlify.app/topicos/linguagens/java/basico/controle-fluxo
