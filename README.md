@@ -55,6 +55,7 @@
 | Day 43             | Feb 12          | Writing a Script to Create a Structure of Users, Directories and Permissions in Linux   | [_Repo_ :construction:][def32]                               |
 | Day 44             | Feb 13          | I started the parallel studies of Computer Science at the Universidade Brasileira Livre | [_UBL_ :school:][def33] <br> [_Docs_ :books:][def34]         |
 | Day 45             | Feb 14          | I wrote about flow control: condition structure, loop structure, exception structure    | [_Post_ :newspaper:][def35]                                  |
+| Day 46             | Feb 15          | Refactoring the Republique des Mangues website and applying clean code concepts         | [_Repo_ :construction:][def36]                               |
 
 
 [def]: https://www.dio.me/
@@ -120,3 +121,5 @@
 [def34]: https://github.com/Universidade-Livre/ciencia-da-computacao
 
 [def35]: https://sintaxe.netlify.app/topicos/linguagens/java/basico/controle-fluxo
+
+[def36]: https://dbreskovit.github.io/Republic-Mango/
