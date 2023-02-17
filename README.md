@@ -53,9 +53,10 @@
 | Day 41             | Feb 10          | Learning the basics of Linux terminal: User management, Directories, Disk Management    |                                                              |
 | Day 42             | Feb 11          | Revisiting logic concepts in the book Programming Logic and Algorithms with JavaScript  | [_Book_ :book:][def31]                                       |
 | Day 43             | Feb 12          | Writing a Script to Create a Structure of Users, Directories and Permissions in Linux   | [_Repo_ :construction:][def32]                               |
-| Day 44             | Feb 13          | I started the parallel studies of Computer Science at the Universidade Brasileira Livre | [_UBL_ :school:][def33] <br> [_Docs_ :books:][def34]         |
-| Day 45             | Feb 14          | I wrote about flow control: condition structure, loop structure, exception structure    | [_Post_ :newspaper:][def35]                                  |
-| Day 46             | Feb 15          | Refactoring the Republique des Mangues website and applying clean code concepts         | [_Repo_ :construction:][def36]                               |
+| Day 44             | Feb 13          | I started the parallel studies of Computer Science at the Universidade Brasileira Livre | [_UBL_ :school:][def33]                                      |
+| Day 45             | Feb 14          | I wrote about flow control: condition structure, loop structure, exception structure    | [_Post_ :newspaper:][def34]                                  |
+| Day 46             | Feb 15          | Refactoring the Republique des Mangues website and applying clean code concepts         | [_Repo_ :construction:][def35]                               |
+| Day 47             | Feb 16          | Reading of the 8st and 9st chapter of the book Clean Code                               |                                                              |
 
 
 [def]: https://www.dio.me/
@@ -118,8 +119,6 @@
 
 [def33]: https://ulivre.dev/
 
-[def34]: https://github.com/Universidade-Livre/ciencia-da-computacao
+[def34]: https://sintaxe.netlify.app/topicos/linguagens/java/basico/controle-fluxo
 
-[def35]: https://sintaxe.netlify.app/topicos/linguagens/java/basico/controle-fluxo
-
-[def36]: https://dbreskovit.github.io/Republic-Mango/
+[def35]: https://dbreskovit.github.io/Republic-Mango/
