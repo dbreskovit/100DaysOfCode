@@ -58,6 +58,7 @@
 | Day 46             | Feb 15          | Refactoring the Republique des Mangues website and applying clean code concepts           | [_Repo_ :construction:][def35]                               |
 | Day 47             | Feb 16          | Reading of the 8st and 9st chapter of the book Clean Code                                 |                                                              |
 | Day 48             | Feb 17          | Finished the International Acceleration for Technology Professionals - Advanced Java Path | [_Cert_ :medal_sports:][def36]                               |
+| Day 49             | Feb 18          | Read TabNews article 14 Habits of Highly Productive Programmers                           | [_Post_ :newspaper:][def37]                                  |
 
 
 [def]: https://www.dio.me/
@@ -125,3 +126,5 @@
 [def35]: https://dbreskovit.github.io/Republic-Mango/
 
 [def36]: https://www.dio.me/certificate/7B8DA780/share
+
+[def37]: https://www.tabnews.com.br/viniciussantos45/14-habitos-de-programadores-altamente-produtivos
