@@ -59,8 +59,9 @@
 | Day 47             | Feb 16          | Reading of the 8st and 9st chapter of the book Clean Code                                 |                                                              |
 | Day 48             | Feb 17          | Finished the International Acceleration for Technology Professionals - Advanced Java Path | [_Cert_ :medal_sports:][def36]                               |
 | Day 49             | Feb 18          | Read TabNews article 14 Habits of Highly Productive Programmers                           | [_Post_ :newspaper:][def37]                                  |
-| Day 50             | Feb 19          | Learning Data Structure in Java LIFO (Last In, First Out)                                 | [_Note_ :clipboard:][def38]                                  |
-| Day 51             | Feb 20          | Learning Data Structure in Java FIFO (First In, First Out)                                | [_Note_ :clipboard:][def38]                                  |
+| Day 50             | Feb 19          | Learning Data Structure in Java: LIFO (Last In, First Out)                                | [_Note_ :clipboard:][def38]                                  |
+| Day 51             | Feb 20          | Learning Data Structure in Java: FIFO (First In, First Out)                               | [_Note_ :clipboard:][def38]                                  |
+| Day 52             | Feb 21          | Learning Data Structure in Java: Linked Lists                                             | [_Note_ :clipboard:][def38]                                  |
 
 
 [def]: https://www.dio.me/
