@@ -62,6 +62,7 @@
 | Day 50             | Feb 19          | Learning Data Structure in Java: LIFO (Last In, First Out)                                | [_Note_ :clipboard:][def38]                                  |
 | Day 51             | Feb 20          | Learning Data Structure in Java: FIFO (First In, First Out)                               | [_Note_ :clipboard:][def38]                                  |
 | Day 52             | Feb 21          | Learning Data Structure in Java: Linked Lists                                             | [_Note_ :clipboard:][def38]                                  |
+| Day 53             | Feb 22          | Learning Data Structure in Java: Doubly Linked Lists                                      | [_Note_ :clipboard:][def38]                                  |
 
 
 [def]: https://www.dio.me/
