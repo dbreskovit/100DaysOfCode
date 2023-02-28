@@ -48,7 +48,7 @@
 | Day 36             | Feb 05          | Understanding Design Patterns in Practice with Java                                       | [_Repo_ :construction:][def29]                                                            |
 | Day 37             | Feb 06          | Started at Java Developer Bootcamp and Linux Bootcamp in Digital Innovation One           | [_DIO_ :tent:][def]                                                                       |
 | Day 38             | Feb 07          | I wrote about java programming language syntax for the Syntax Project                     |                                                                                           |
-| Day 39             | Feb 08          | Review of written content for the Sintaxe project and correction of spelling errors       | [_Post_ :newspaper:][def30]                                                               |
+| Day 39             | Feb 08          | Review of written content for the Sintaxe project and correction of spelling errors       | [_Post_ :green_heart:][def30]                                                             |
 | Day 40             | Feb 09          | Reading of the 7st chapter of the book Clean Code                                         |                                                                                           |
 | Day 41             | Feb 10          | Learning the basics of Linux terminal: User management, Directories, Disk Management      |                                                                                           |
 | Day 42             | Feb 11          | Revisiting logic concepts in the book Programming Logic and Algorithms with JavaScript    | [_Book_ :book:][def31]                                                                    |
@@ -63,10 +63,11 @@
 | Day 51             | Feb 20          | Learning Data Structure in Java: FIFO (First In, First Out)                               | [_Notes_ :clipboard:][def38]                                                              |
 | Day 52             | Feb 21          | Learning Data Structure in Java: Linked Lists                                             | [_Notes_ :clipboard:][def38]                                                              |
 | Day 53             | Feb 22          | Learning Data Structure in Java: Doubly Linked Lists                                      | [_Notes_ :clipboard:][def38]                                                              |
-| Day 54             | Feb 23          | Start of course Introduction to Computer Science with Python Part 1                       | [_Course_ :man_teacher:][def39]                                                           |
-| Day 55             | Feb 24          | Writing content about syntax and semantics in the C# programming language for the Sintaxe |                                                                                           |
+| Day 54             | Feb 23          | Studying Introduction to Computer Science with Python Part 1                              | [_Course_ :man_teacher:][def39]                                                           |
+| Day 55             | Feb 24          | Writing content about syntax and semantics in the C#                                      |                                                                                           |
 | Day 56             | Feb 25          | Writing articles about technology on the DIO.me                                           | [_Post_ :newspaper:][def40]<br>[_Post_ :newspaper:][def41]<br>[_Post_ :newspaper:][def42] |
 | Day 57             | Feb 26          | Writing more articles about technology on the DIO.me                                      | [_Post_ :newspaper:][def43]<br>[_Post_ :newspaper:][def44]<br>[_Post_ :newspaper:][def45] |
+| Day 58             | Feb 27          | Studying Mathematical Foundations for Computer Science                                    | [_Course_ :man_teacher:][def46]                                                           |
 
 
 [def]: https://www.dio.me/
@@ -148,3 +149,5 @@
 [def43]: https://dio.me/articles/descubra-por-que-o-ubuntu-e-a-melhor-escolha-4-razoes-para-abandonar-o-windows-de-vez
 [def44]: https://dio.me/articles/animes-sobre-programacao-mergulhe-em-um-mundo-de-tecnologia-e-aventura
 [def45]: https://dio.me/articles/extensoes-do-vscode-que-todo-desenvolvedor-deve-usar
+
+[def46]: https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx
