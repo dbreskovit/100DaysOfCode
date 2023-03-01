@@ -68,6 +68,7 @@
 | Day 56             | Feb 25          | Writing articles about technology on the DIO.me                                           | [_Post_ :newspaper:][def40]<br>[_Post_ :newspaper:][def41]<br>[_Post_ :newspaper:][def42] |
 | Day 57             | Feb 26          | Writing more articles about technology on the DIO.me                                      | [_Post_ :newspaper:][def43]<br>[_Post_ :newspaper:][def44]<br>[_Post_ :newspaper:][def45] |
 | Day 58             | Feb 27          | Studying Mathematical Foundations for Computer Science                                    | [_Course_ :man_teacher:][def46]                                                           |
+| Day 59             | Feb 28          | Continuing studies in Mathematical Foundations for Computer Science                       |                                                                                           |
 
 
 [def]: https://www.dio.me/
